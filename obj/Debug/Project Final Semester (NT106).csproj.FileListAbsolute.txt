@@ -1,0 +1,161 @@
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\Project Final Semester (NT106).exe.config
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\Project Final Semester (NT106).exe
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\Project Final Semester (NT106).pdb
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project Final Semester (NT106).csprojAssemblyReference.cache
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project Final Semester (NT106).exe
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project Final Semester (NT106).pdb
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\AForge.dll
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\AForge.Video.DirectShow.dll
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\AForge.Video.dll
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\AForge.xml
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\AForge.Video.xml
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\bin\Debug\AForge.Video.DirectShow.xml
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormLamBai.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormCHoTro.resources
+D:\UIT\MÔN HỌC\HỌC KỲ 2 NĂM HAI\LẬP TRÌNH MẠNG CĂN BẢN\ĐỒ ÁN CUỐI KÌ\Project Final Semester (NT106)\obj\Debug\Project_Final_Semester__NT106_.FormSHoTro.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\Project Final Semester (NT106).exe.config
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\Project Final Semester (NT106).exe
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\Project Final Semester (NT106).pdb
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\AForge.dll
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.DirectShow.dll
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.dll
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\AForge.xml
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.xml
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.DirectShow.xml
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.AssemblyReference.cache
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormLamBai.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormCHoTro.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormSHoTro.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).exe
+D:\hmmmmmm\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).pdb
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\Project Final Semester (NT106).exe.config
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\Project Final Semester (NT106).exe
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\Project Final Semester (NT106).pdb
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\AForge.dll
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.dll
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\AForge.xml
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.xml
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csprojAssemblyReference.cache
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormLamBai.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).exe
+C:\Users\LY PHUC THANH\Desktop\Project Final Semester (NT106)-Thành\obj\Debug\Project Final Semester (NT106).pdb
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).exe.config
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).exe
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).pdb
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.dll
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.DirectShow.dll
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.dll
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.xml
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.xml
+D:\Download\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.DirectShow.xml
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csprojAssemblyReference.cache
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).exe
+D:\Download\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).pdb
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).exe.config
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).exe
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).pdb
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.dll
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.dll
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).exe
+C:\Users\ASUS\Desktop\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).pdb
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).exe.config
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).exe
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\Project Final Semester (NT106).pdb
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.dll
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.dll
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.xml
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.xml
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csprojAssemblyReference.cache
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).exe
+C:\Users\LY PHUC THANH\Desktop\New folder (2)\Project Final Semester (NT106)-Thành - Copy\obj\Debug\Project Final Semester (NT106).pdb
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\Project Final Semester (NT106).exe.config
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\Project Final Semester (NT106).exe
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\Project Final Semester (NT106).pdb
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\AForge.dll
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\AForge.Video.dll
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\AForge.xml
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\AForge.Video.xml
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project Final Semester (NT106).csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.FormMoDau.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.FormDapAn.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.Form2.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.FormDienThongTin.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.Form6.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.FormDieuLenh.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project_Final_Semester__NT106_.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project Final Semester (NT106).csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project Final Semester (NT106).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project Final Semester (NT106).csproj.CopyComplete
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project Final Semester (NT106).exe
+C:\Users\ASUS\Desktop\Project Final Semester (NT106) Final\obj\Debug\Project Final Semester (NT106).pdb
