@@ -7,10 +7,11 @@ A small multiple-choice app was made by ourselves.
 | Lý Phúc Thành  | 20521916 |
 | Cao Anh Khoa   | 20521462 |
 
-# First install the app using
+# To install the app using
 ```console
  git clone https://github.com/OceanTran999/NT106_Project_App_Quiz_Test.git
 ```
+
 # How to run
 1. First, you'll see "FormMoDau", which has "Admin(Server)" and "Sinh viên(Client)". Server must be log in first, so Clients can connect.
 2. Server must create databases (database about Math, Physics, etc) for choosing subjects in ComboBox next to "Chọn đề" in "FormDieuLenh".
